@@ -1,0 +1,14 @@
+<x>
+INITIALIZE x-Internet = 128+/-:13;
+NM_TX_Base_URL; = +f1-m13+v22;
+NM_TX_Base_URL_TYPE; = TRIO_COMPLEX;
+NM_TX_Base_URL_SPAN; = *1-64*65-128*129-192;
+NM_TX_Base_URL_PROTOCOL; = *NIG*SWI*VAN;
+NM_TX_Default_L/D; = PMP/RtL_PMP/LtR;
+Default_NuMove; = 1TZ/+VE;
+Default_AlphaMove; = OTZ/+VE;
+NM_TX_Default_S_F; = (!NP)-B-N-Q-Q-(!RN);
+NM_TX_Big_Data_TYPE; = Numeric, Alphabetic, AlphaNumeric, Geo-Contro; 
+NM_TX_CONTENT; = #;
+NM_TX_OUTPUT; = #;
+</x>
